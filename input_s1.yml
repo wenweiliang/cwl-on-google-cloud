@@ -1,0 +1,6 @@
+normal_bam: 
+  class: File
+  path: ./StrelkaDemo.dat/StrelkaDemoCase.N.bam
+reference_fasta: 
+  class: File
+  path: ./StrelkaDemo.dat/demo20.fa
